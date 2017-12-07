@@ -1,1 +1,1 @@
-fpath+=${0:A:h}/zsh-autosuggestions.zsh
+fpath+=${0:A:h}/src/
